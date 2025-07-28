@@ -30,7 +30,7 @@ O objetivo deste desafio é avaliar suas habilidades em desenvolvimento de pági
 
 ### 5. Responsividade UX
 
-<img width="1910" height="902" alt="pesquisa" src=Captura de tela 2025-07-28 084835.png/">
+<img width="1910" height="902" alt="pesquisa" src="Captura de tela 2025-07-28 084835.png/">
 
 ## Estrutura do Projeto
 
